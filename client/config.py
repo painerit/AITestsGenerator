@@ -2,7 +2,7 @@ import tkinter.ttk as ttk
 
 class Config:
     # API Settings
-    AI_API_KEY = "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"
+    AI_API_KEY = "url_key"
     AI_API_URL = "https://openrouter.ai/api/v1/chat/completions"
     MODEL = "deepseek/deepseek-chat:free"
     
